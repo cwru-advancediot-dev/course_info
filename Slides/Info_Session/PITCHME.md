@@ -1,8 +1,8 @@
-# EECS 377/397
+## EECS 377/397
 
-## Internet of Things
+### Internet of Things
 
-### Spring 2020
+#### Spring 2020
 
 ---
 
