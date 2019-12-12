@@ -13,6 +13,9 @@
 
 ---?image=https://raw.githubusercontent.com/cwru-advancediot-dev/course_info/master/Slides/Info_Session/images/yp-how-it-works-new-diagram.png&size=90% auto
 
+---?image=https://raw.githubusercontent.com/cwru-advancediot-dev/course_info/master/Slides/Info_Session/images/Course_Overview.svg&size=90% auto
+
+
 ---
 
 ## Questions
