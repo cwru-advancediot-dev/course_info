@@ -6,3 +6,6 @@
 
 ---
 
+![EECS 397](images/title_page.png)
+
+---
